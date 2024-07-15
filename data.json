@@ -1,0 +1,37 @@
+[
+    {
+        "nama": "Marina",
+        "deskripsi": "sunblock uv35",
+        "harga": 40000
+    },
+    {
+        "nama": "Erha",
+        "deskripsi": "light sunscreen",
+        "harga": 50000
+    },
+    {
+        "nama": "Wardah uv",
+        "deskripsi": "shield sunscreen",
+        "harga": 60000
+    },
+    {
+        "nama": "Azarine",
+        "deskripsi": "sunscreen serum",
+        "harga": 30000
+    },
+    {
+        "nama": "skintific",
+        "deskripsi": "sunscreen mist",
+        "harga": 55000
+    },
+    {
+        "nama": "Nuface",
+        "deskripsi": "sun shield",
+        "harga": 25000
+    },
+    {
+        "nama": "Avoskin",
+        "deskripsi": "Great shield Sunscreen",
+        "harga": 60000
+    }
+]
